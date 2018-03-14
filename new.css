@@ -1,0 +1,19 @@
+.circle{
+      width:200px;
+      height: 200px;
+      -webkit-border-radius: 100px;
+      -moz-border-radius: 100px;
+      border-radius: 100px;
+      background: red;
+    }
+
+.vertical{
+	width:1px;
+	border: 2px solid blue;
+	height:100px;
+	background: blue;
+}
+
+#canvas{
+	align-items: center;
+}
